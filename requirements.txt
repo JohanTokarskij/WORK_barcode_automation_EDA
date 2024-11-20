@@ -1,0 +1,9 @@
+azure-identity
+azure-keyvault-secrets
+pandas
+python-dateutil
+pytz
+requests
+python-barcode
+pillow
+reportlab
